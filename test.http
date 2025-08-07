@@ -1,0 +1,10 @@
+POST http://localhost:8080/submit
+Content-Type: application/json
+
+{
+  "name": "Vaibhav",
+  "email": "vaibhav@example.com",
+  "phone": "9876543210",
+  "course": "physics",
+  "message": "Interested!"
+}
